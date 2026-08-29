@@ -29,3 +29,35 @@ The application displays a complete pickup animation: a passenger waits for a ta
 
 ```bash
 python taxi_loading.py
+```
+
+## 🎯 Project Purpose
+
+This project was created as part of my Python learning journey and focuses on applying programming concepts in a visual application.
+
+It helped me practice:
+
+- Functions
+- Conditions
+- Loops
+- Variables
+- GUI development
+- Animation logic
+- Program flow
+- Git version control
+
+## 📷 Preview
+
+![Taxi Loading Screen](taxi_loading_preview.png)
+
+## 🚀 Future Improvements
+
+- Improve character animations
+- Add additional visual effects
+- Improve animation transitions
+- Add sound effects
+- Package the application as a Windows executable
+
+## 📌 Status
+
+**Version 1.0 — Functional prototype**
